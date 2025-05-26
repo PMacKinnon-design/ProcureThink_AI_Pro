@@ -1,0 +1,3 @@
+Premise: The current contract expires in 60 days
+Evidence: The incumbent supplier's performance has been strong and pricing is stable
+Conclusion: Extend the contract for another 12 months while planning a competitive RFP
