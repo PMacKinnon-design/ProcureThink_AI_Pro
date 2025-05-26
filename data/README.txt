@@ -1,1 +1,0 @@
-User-generated or uploaded data will be stored here.
