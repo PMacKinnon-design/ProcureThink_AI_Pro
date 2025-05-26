@@ -1,1 +1,0 @@
-This folder will hold user-uploaded or processed data for decision analysis.
