@@ -36,10 +36,10 @@ if problem_description:
                 response = openai.ChatCompletion.create(
                     model="gpt-4",
                     messages=[
-                        {"role": "system", "content": "You are a senior procurement consultant. Provide 2–3 strategic options in response to the prompt. For each, include a short label, the logic behind the recommendation, and a note on trade-offs or risks."},
+                        {"role": "system", "content": "You are a senior procurement consultant writing for executives. For the user's issue, generate exactly 3 strategic procurement options. For each option, format it as:\n\n**Option X: [Title]**\n- Logic: [Short explanation of why this option is valid]\n- Trade-Offs: [What risks, challenges, or downsides should be considered]\n\nRespond in clear, concise language, suitable for executive briefing. Do not exceed 500 words."},
                         {"role": "user", "content": selected_prompt}
                     ],
-                    temperature=0.7,
+                    temperature=0.4,
                     max_tokens=800
                 )
 
