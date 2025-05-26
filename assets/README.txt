@@ -1,1 +1,0 @@
-Branding assets (logos, icons) go here.
