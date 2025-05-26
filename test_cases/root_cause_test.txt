@@ -1,0 +1,7 @@
+Problem: Supplier consistently misses delivery deadlines
+
+Why 1: Because their production schedule is overloaded
+Why 2: Because they took on more clients than they can handle
+Why 3: Because their forecasting model is inaccurate
+Why 4: Because they lack real-time inventory visibility
+Why 5: Because their ERP system is outdated
