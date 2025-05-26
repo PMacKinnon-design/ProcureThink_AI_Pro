@@ -1,0 +1,1 @@
+This folder is intended for logos, branding assets, or UI elements.
